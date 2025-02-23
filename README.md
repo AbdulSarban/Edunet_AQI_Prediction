@@ -94,7 +94,7 @@ When AQI exceeds 200, a warning message is sent automatically.
 ## 📧 Contact
 For queries, feel free to reach out:
 - **GitHub:** [AbdulSarban](https://github.com/AbdulSarban)
-- **Email:** your_email@example.com
+- **Email:** sarbanabdul@gmail.com
 
 ---
 
